@@ -2,7 +2,7 @@
 ```bash
 $ cat AboutMe.txt
 Graduation:        Computer Science Student
-Job:               Backend Developer
+Job:               JR Java Backend Developer
 Intrests:          Offsec, Development, DevOps, design thinking  
 
 Stack:
