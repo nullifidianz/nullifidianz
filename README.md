@@ -1,10 +1,18 @@
-### Hello, I'm João!
 
-#### A Computer Science Student
+```bash
+$ cat AboutJoao.txt
+Graduation:  Computer Science Student
+Job:                Backend Developer
+Intrests:          Offsec, Development, DevOps, design thinking  
 
-Backend Developer at Constância Investimentos<br>
+Stack:
+  Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 85%
+  Go      ▓▓▓▓▓▓▓▓▓▓░░░░░░ 60%
+  Shell   ▓▓▓▓▓▓▓▓▓░░░░░░ 55%
+  JS       ▓▓▓▓▓▓▓░░░░░░░░░ 40%
+  React  ▓▓░░░░░░░░░░░░░░ 30% 
+  Angular ▓░░░░░░░░░░░░░░░ 30% 
 
-- I use daily: `.java`, `.go`, `.js`
-- I'm mostly active within the **Java** Community
-- visit my blog: [jpzdias.dev](https://jpzdias.vercel.app/)
-- `ping` me about **java**, **go**, **development**, **design thinking**
+
+Blog:    jpzdias.dev
+Status:  ● Always Online
