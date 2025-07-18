@@ -1,14 +1,14 @@
 
 ```bash
-$ cat AboutJoao.txt
-Graduation:  Computer Science Student
-Job:                Backend Developer
+$ cat AboutMe.txt
+Graduation:        Computer Science Student
+Job:               Backend Developer
 Intrests:          Offsec, Development, DevOps, design thinking  
 
 Stack:
   Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 85%
 
-  Go      ▓▓▓▓▓▓▓▓▓▓░░░░░░░ 60%
+  Go      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 70%
 
   Shell   ▓▓▓▓▓▓▓▓▓░░░░░░░░ 55%
 
@@ -19,5 +19,5 @@ Stack:
   Angular ▓░░░░░░░░░░░░░░░░ 30% 
 
 
-Blog:    jpzdias.dev
+Blog:    jpzdias.vercel.app
 Status:  ● Always Online
