@@ -16,7 +16,7 @@ Stack:
 
   React   ▓▓░░░░░░░░░░░░░░░ 30%
 
-  Angular ▓░░░░░░░░░░░░░░░░ 30% 
+  Angular ▓▓░░░░░░░░░░░░░░░ 30%
 
 
 Blog:    jpzdias.vercel.app
