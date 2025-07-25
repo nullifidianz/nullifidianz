@@ -1,23 +1,34 @@
 
 ```bash
 $ cat AboutMe.txt
-Graduation:        Computer Science Student
+
+
+Name:              João Paulo
+Age:               22
+Graduation:        Computer Science Student @ FEI
 Job:               JR Java Backend Developer
-Intrests:          Offsec, Development, DevOps, design thinking  
+Intrests:          Offsec, Development, DevOps, Design thinking, Java, GO  
 
 Stack:
-  Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 85%
+
+  Java    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 85%
 
   Go      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 70%
 
-  Shell   ▓▓▓▓▓▓▓▓▓░░░░░░░░ 55%
+  Shell   ▓▓▓▓▓▓▓▓▓▓░░░░░░░ 55%
 
   JS      ▓▓▓▓▓▓▓░░░░░░░░░░ 40%
 
-  React   ▓▓░░░░░░░░░░░░░░░ 30%
+  Docker  ▓▓▓▓▓▓▓░░░░░░░░░░ 40%
 
-  Angular ▓▓░░░░░░░░░░░░░░░ 30%
+  React   ▓▓▓▓▓░░░░░░░░░░░░ 30%
+
+  Angular ▓▓▓▓▓░░░░░░░░░░░░ 30%
 
 
 Blog:    jpzdias.vercel.app
 Status:  ● Always Online
+
+Hit me Up!
+
+```
