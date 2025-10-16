@@ -26,7 +26,7 @@ Stack:
   Angular ▓▓▓▓▓░░░░░░░░░░░░ 30%
 
 
-Blog:    jpzdias.vercel.app
+Blog:    jpzdias.dev
 Status:  ● Always Online
 
 Hit me Up!
