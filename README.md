@@ -6,7 +6,7 @@ $ cat AboutMe.txt
 Name:              João Paulo
 Age:               23
 Graduation:        Computer Science @ FEI
-Job:               JR Java Backend Developer
+Job:               Mid-Level Backend Developer
 Intrests:          Offsec, Development, DevOps, Design thinking, Java, GO  
 
 Stack:
